@@ -5,6 +5,10 @@ This repository presents the code developed for my mini-project completed as par
 
 This repository presents the code developed for my mini-project as part of the "TDT17 - Visual Intelligence" course during the second year of my master's program at [**NTNU, Trondheim**](https://ntnu.no/). Alongside the code, a presentation slide deck is provided, encapsulating a concise overview of the experiments conducted.
 
+## **Qualitative Results**
+![Prediction Mask](assets/image.png "Qualitative Results on sample training and validation data")
+
+
 ## **Project Reproduction Instructions**
 To use this code for similar experiments, kindly follow the steps below
 - Clone the repository 
