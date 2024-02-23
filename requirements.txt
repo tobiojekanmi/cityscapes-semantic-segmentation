@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pickleshare
+Pillow
+python
+segmentation-models-pytorch
+tensorboard
+torch
+torchmetrics
+torchvision
